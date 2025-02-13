@@ -29,7 +29,9 @@ This project involves HR Analytics using **Power BI** to gain insights from empl
    - Designed and deployed a live, interactive dashboard for real-time HR insights.
 
 ---
+![HR Analytics Dashboard](HR_Analytics.jpg)
 
+---
 ## Key Features
 - Interactive visualizations for effective HR decision-making.
 - Custom measures and calculated columns for advanced analytics.
